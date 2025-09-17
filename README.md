@@ -1,2 +1,2 @@
 # learn-git
-author-inderjeet
+# author-inderjeet
