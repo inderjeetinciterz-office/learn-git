@@ -1,5 +1,5 @@
- amazone prime clone
+# amazone prime clone
  <br>
- and also learn git and github
+ # and also learn git and github
  <br>
- author-inderjeet
+ # author-inderjeet
